@@ -1,0 +1,57 @@
+{
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2017-07-04 18:55:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2017-06-18 19:10:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2017-07-04 18:55:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2017-07-04 18:54:33 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2017-07-04 18:55:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "ice_flats": "2017-07-04 18:57:20 -0400",
+      "frozen_river": "2017-07-04 18:57:26 -0400",
+      "forest": "2017-06-18 19:11:14 -0400",
+      "plains": "2017-06-18 19:11:15 -0400",
+      "ice_mountains": "2017-06-18 19:13:34 -0400",
+      "jungle": "2017-06-18 19:10:31 -0400",
+      "river": "2017-07-04 18:57:25 -0400",
+      "desert": "2017-07-04 18:58:22 -0400"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2017-07-04 18:55:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2017-07-04 18:54:33 -0400"
+    },
+    "done": true
+  }
+}
